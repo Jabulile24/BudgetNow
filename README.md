@@ -34,7 +34,11 @@ This is a Kotlin-based Android application that helps users track their expenses
 3. Run the app on an emulator or physical device.
 4. Log in or register to begin using the tracker.
 
+Click below to access github:  
+[📦 github](https://github.com/Jabulile24/BudgetNow)
+## 🛠 APK Download
 
+[📦 Click here to download the APK](https://github.com/Jabulile24/BudgetNow/releases/tag/V.1.0)
 
 
 ## 👩‍💻 Developer
