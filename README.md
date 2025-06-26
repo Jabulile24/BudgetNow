@@ -1,48 +1,64 @@
-# BudgetNow app
+# Budget Tracker App
 
-This is a Kotlin-based Android application that helps users track their expenses, set budget limits, and view financial summaries.
+## 📱 About the App
+The Budget Tracker is an Android app built using Kotlin to help users manage their spending. It allows users to:
+- Log expenses by category
+- Set minimum and maximum budget goals
+- View graphs of spending over time
+- Earn badges for good budget habits
 
-## 📱 Features
+This app was built for my final POE submission and runs on a physical Android device.
 
-- User login with username and password
-- Create and manage budget categories
-- Add expense entries with:
-    - Date
-    - Time
-    - Description
-    - Category
-    - Optional photo attachment
-- Set monthly minimum and maximum spending goals
-- View expenses during user-selected periods
-- View total spending per category
-- Data stored offline using RoomDB
-- User-friendly interface with error handling
+---
 
-## 📂 Technologies
+## 🆕 Final POE Features
 
-- Kotlin
-- Android Studio
-- Room Database (SQLite)
-- GitHub & Version Control
-- Logging and automated testing
-- GitHub Actions for CI/CD
+### 📊 1. Spending Graph
+- Displays how much the user spent per category over a selected period.
+- Shows min and max goals on the graph.
 
-## 🚀 How to Run the App
+### 📅 2. Monthly Goal Performance
+- Visually shows how well the user stayed within budget goals in the past month.
 
-1. Clone this repository.
-2. Open the project in Android Studio.
-3. Run the app on an emulator or physical device.
-4. Log in or register to begin using the tracker.
+### 🏆 3. Gamification
+- Badges or rewards are earned for:
+    - Meeting budget goals
+    - Logging expenses consistently
 
-Click below to access github:  
-[📦 github](https://github.com/Jabulile24/BudgetNow)
-## 🛠 APK Download
+---
 
-[📦 Click here to download the APK](https://github.com/Jabulile24/BudgetNow/releases/tag/V.1.0)
+## ✨ My Two Custom Features
+
+### 🔐 1. Login & Registration
+- Users can register, log in, and log out securely.
+
+### 📷 2. Receipt Upload
+- Users can attach a photo of a receipt when logging an expense.
+
+---
 
 
-## 👩‍💻 Developer
 
-Tshegofatso and Jabulile — Software Development Student  
+## 🧪 Automated Testing & GitHub Actions
+
+- Unit tests included for:
+    - Expense calculation
+    - Budget goal checking
+- Automated build and test with GitHub Actions:
+  [Workflow File](.github/workflows/build.yml)
+
+---
+
+## 🎬 Demo Video
+
+Watch the full demo (with voice-over) on a real Android phone here:  
+➡️ [Watch Video]
 
 
+
+## 👨‍💻 Developer Info
+
+- Name: JABULILE SELE AND TSHEGOFATSO SELE
+- Student Number: ST10102408 ST10105387
+- - Course: Software Development
+- Year: 2025
